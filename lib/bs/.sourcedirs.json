@@ -1,0 +1,1 @@
+{ "dirs" : [ "src" ] , "pkgs" : [ [ "bs-platform" , "/home/runner/ReasonReact-Template/node_modules/bs-platform" ] , [ "reason-react" , "/home/runner/ReasonReact-Template/node_modules/reason-react" ] ] , "generated" : [] }

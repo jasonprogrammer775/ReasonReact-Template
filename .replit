@@ -1,0 +1,2 @@
+run="npx bsb -make-world -clean-world && npx esbuild ./src/index.bs.js --bundle '--define:process.env.NODE_ENV=\"development\"' --outfile=public/bundle.js"
+onBoot = "cd public && python -m SimpleHTTPServer 8000"

@@ -1,0 +1,13 @@
+# ninja log v5
+# start_time end_time mtime command hash
+2	74	1588691706947573713	ReasonreTemplate.cmi	f8390826b1df88e8
+0	159	1588691706967575320	src/index.reast	d6f08ecd6ef397e8
+159	170	1588691707043581427	src/index.d	807d1b6cfac116c1
+1	178	1588691707051582070	src/Greeting.reast	cbc05000501a7e4e
+179	185	1588691707059582712	src/Greeting.d	83e2e8e955ae78c5
+185	272	1588691707143589463	src/Greeting-ReasonreTemplate.cmj	fdd856ed588ed252
+185	272	1588691707143589463	src/Greeting-ReasonreTemplate.cmi	fdd856ed588ed252
+185	272	1588691707143589463	/home/runner/ReasonReact-Template/src/Greeting.bs.js	fdd856ed588ed252
+272	307	1588691707179592356	src/index-ReasonreTemplate.cmj	bffdf627a20ece57
+272	307	1588691707179592356	src/index-ReasonreTemplate.cmi	bffdf627a20ece57
+272	307	1588691707179592356	/home/runner/ReasonReact-Template/src/index.bs.js	bffdf627a20ece57
